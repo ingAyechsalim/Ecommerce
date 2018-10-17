@@ -1,0 +1,27 @@
+.productItem-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid grey;
+  margin: 7px;
+  padding: 7px;
+}
+.img-container {
+  width: 50%;
+}
+.img-container img {
+  width: 100%;
+}
+.product-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: red;
+  margin: 17px 0 17px 0;
+}
+.product-price {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: red;
+  margin: 17px 0 17px 0;
+}
